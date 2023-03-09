@@ -1,3 +1,9 @@
+
+EJEMPLO:
+
+Elizabelar Nicolás (210056) -> Usuario de GitHub: nelizabelar
+Giuliano Palumbo (222581) -> Usuario de GitHub: giulianopbo
+Stirling Sayavedra, Joaquín Ricardo (235909) --> GITHUB USER = joaquin.stirling (https://github.com/joaquinstirling)
 Benítez Pablo (179924) -> Usuario de GitHub: benitezpablo
 Azor Dávila, Valentin  (220971)
 Borrás Puig, Felipe León (225715)
@@ -24,3 +30,4 @@ Sosa Rippe, Chiara  (241699)
 Stirling Sayavedra, Joaquín Ricardo (235909)
 Valiunas Pérez, Romina Natalí (211208)
 Winicki Melgendler, Igal  (251512)
+
