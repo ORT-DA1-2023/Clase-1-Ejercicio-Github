@@ -1,5 +1,11 @@
 EJEMPLO:
 
+<<<<<<< master
 Elizabelar Nicolás (210056) -> Usuario de GitHub: nelizabelar
 Giuliano Palumbo (222581) -> Usuario de GitHub: giulianopbo
 Nicolas Capellino (272778) -> Usuario de GitHub: NicoCapellino
+=======
+Bruno Balduccio (157967) -> Usuario de GitHub: brubaldu
+Guillermo Martinicorena (267356) -> Usuario de GitHub: guilleMartinicorena
+Mateo Giraz (241195) -> Usuario de Github: MateoGiraz
+>>>>>>> 2023-M5B
